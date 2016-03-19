@@ -1,0 +1,16 @@
+{
+  "title": "extractImgInfoFromHtml",
+  "name": "extractimginfo",
+  "version": "0.0.4",
+  "description": "Extract images path and alt text from the current html page. A temporary .ods file is launched.",
+  "main": "index.js",
+  "author": "maraujo010@gmail.com",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
